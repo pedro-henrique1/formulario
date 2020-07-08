@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+form {
+  margin-top: -78%;
+}
+
+label {
+  margin-top: 70px;
+  position: absolute;
+  margin-left: -17%;
+}
+.img {
+  margin: 4% 0 0 0;
+}
+
+.form {
+  float: right;
+  margin-right: 6%;
+  display: flex;
+}
+
+.text {
+  margin: -28% 21% 0 0;
+  display: flex;
+  float: right;
+  font-size: 14px;
+}
+
+#inputLogin,
+#inputSenha,
+#button {
+  width: 62%;
+  border-radius: 16px;
+  height: 5vh;
+  text-align: center;
+}
+#inputLogin {
+  margin: 5% 0 0 0;
+}
+#inputSenha {
+  margin-top: 5%;
+}
+
+#checkbox {
+  position: absolute;
+  margin: 72px 0 0 -19%;
+}
+
+#button {
+  width: 19%;
+  position: absolute;
+  margin: 9% 0 0 -19%;
+  position: absolute;
+  color: #fff;
+  background-color: rgb(63, 155, 209);
+  border-color: rgb(63, 155, 209);
+}
