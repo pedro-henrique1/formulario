@@ -58,3 +58,9 @@ label {
   background-color: rgb(63, 155, 209);
   border-color: rgb(63, 155, 209);
 }
+
+#mostraSenha {
+  display: block;
+  margin: 27px 0 0 13px;
+  position: absolute;
+}
