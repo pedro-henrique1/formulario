@@ -25,10 +25,16 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 # Clone o repositório
 $ git clone https://github.com/pedro-henrique1/formulario
 
+# Enter na pasta
 $ cd formulario
 
+# baixe todas as dependencias
+$ yarn
+
+# Start o servidor
 $ yarn dev
 
+# O servidor ficara de
 O servidor iniciara na porta:3333  http://localhost:3000
 
 ```
